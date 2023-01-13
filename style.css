@@ -1,0 +1,49 @@
+p>span{
+background-color: yellow;}
+.cat-sens{
+text-decoration: underline;
+text-indent: 50px;
+font-size: 25px;}
+ul{
+margin: 50px;}
+.media{
+
+    text-align: center;
+}
+.media>.cat{
+width: 50%;
+height: 10%;
+margin: auto;
+display: flex;
+border: 2px solid gray;
+border-radius: 20px;
+}
+
+.title-table{
+border: 2px solid red;
+width: 60%;
+margin: auto;
+text-align: center;
+color: red;
+
+}
+#lions{
+    margin: auto;}
+
+table,th,td{
+    border: 1px solid rgb(70, 62, 62);
+    border-collapse:collapse ;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px auto;
+    position: relative;
+}
+
+.lion{
+    width: 50%;
+    height: 10%;
+    margin: auto;
+    display: flex;
+    border: 2px solid lightcoral;
+    border-radius: 20px;
+}
